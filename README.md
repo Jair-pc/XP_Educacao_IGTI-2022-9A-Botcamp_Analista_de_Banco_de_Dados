@@ -1,7 +1,8 @@
 [![](https://img.shields.io/badge/made%20by-jair-blue)](https://www.linkedin.com/in/jairengdados/)
 ![GitHub repo size](https://img.shields.io/badge/-engenheiro%20de%20dados-green)
 
-
+`Certificado:` [Acesse aqui](https://github.com/Jair-pc/XP_Educacao_IGTI-2022-9A-Botcamp_Analista_de_Banco_de_Dados/blob/master/Analista%20de%20Banco%20de%20dados.jpg)
+</br></br>
 
 `Duração:` 2 meses, 148 horas
 </br></br>
